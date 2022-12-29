@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hrehankhan.github.io/csb-ycn2ln/static/css/main.ed7963f2.chunk.css",
+    "main.js": "https://hrehankhan.github.io/csb-ycn2ln/static/js/main.951f1314.chunk.js",
+    "main.js.map": "https://hrehankhan.github.io/csb-ycn2ln/static/js/main.951f1314.chunk.js.map",
+    "runtime-main.js": "https://hrehankhan.github.io/csb-ycn2ln/static/js/runtime-main.db5d68a7.js",
+    "runtime-main.js.map": "https://hrehankhan.github.io/csb-ycn2ln/static/js/runtime-main.db5d68a7.js.map",
+    "static/js/2.84d2f50e.chunk.js": "https://hrehankhan.github.io/csb-ycn2ln/static/js/2.84d2f50e.chunk.js",
+    "static/js/2.84d2f50e.chunk.js.map": "https://hrehankhan.github.io/csb-ycn2ln/static/js/2.84d2f50e.chunk.js.map",
+    "index.html": "https://hrehankhan.github.io/csb-ycn2ln/index.html",
+    "static/css/main.ed7963f2.chunk.css.map": "https://hrehankhan.github.io/csb-ycn2ln/static/css/main.ed7963f2.chunk.css.map",
+    "static/js/2.84d2f50e.chunk.js.LICENSE.txt": "https://hrehankhan.github.io/csb-ycn2ln/static/js/2.84d2f50e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db5d68a7.js",
+    "static/js/2.84d2f50e.chunk.js",
+    "static/css/main.ed7963f2.chunk.css",
+    "static/js/main.951f1314.chunk.js"
+  ]
+}
